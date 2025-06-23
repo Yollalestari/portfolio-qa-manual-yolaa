@@ -1,0 +1,15 @@
+BUG REPORT
+
+ID: BR-002  
+Judul: Error saat register tanpa email  
+Langkah:
+1. Buka halaman register  
+2. Kosongkan field email  
+3. Klik register  
+
+Actual: Tidak muncul pesan error  
+Expected: Harus muncul "Email wajib diisi"  
+Severity: Medium  
+Status: Open  
+Tanggal: 23 Juni 2025  
+Reporter: Yola Lestari
